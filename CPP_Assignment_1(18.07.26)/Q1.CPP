@@ -10,7 +10,7 @@ int sum(int a,int b){
 void input(int &a,int &b){
     cout<<"Enter first number: ";
     cin>>a;
-    cout<<"Enter first number: ";
+    cout<<"Enter second number: ";
     cin>>b;
 }
 int main(){
