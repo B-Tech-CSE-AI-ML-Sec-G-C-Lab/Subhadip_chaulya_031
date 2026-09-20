@@ -4,7 +4,7 @@ Wap in c to check whether a number is prime or not
 #include<stdio.h>
 #include<stdbool.h>
 bool isprime(int n){
-if(n<=2){
+if(n<2){
     return false;
 }
 for(int i=2;i*i<=n;i++){
