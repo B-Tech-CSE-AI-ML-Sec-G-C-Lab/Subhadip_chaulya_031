@@ -211,20 +211,12 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 |:---:|:---:|:---|
 | Q1 | `Q1.cpp` | Abstract Employee class with PermanentEmployee and ContractEmployee salary calculations |
 | Q2 | `Q2.cpp` | Abstract Vehicle class with Car, Bike and Truck rental calculations |
-
+| Q3 | `Q3.cpp` | Validate bank withdrawals using exceptions for insufficient balance and invalid amount |
+| Q4 | `Q4.cpp` | Define InvalidMarksException and calculate student percentage and result |
 ---
 
 <a id="assignment-10"></a>
 
-## 📝 Assignment 10
-
-**Date:** 03/11/2026  
-**Language:** C++
-
-| Question | Source File | Description |
-|:---:|:---:|:---|
-| Q1 | `Q1.cpp` | Validate bank withdrawals using exceptions for insufficient balance and invalid amount |
-| Q2 | `Q2.cpp` | Define InvalidMarksException and calculate student percentage and result |
 
 ---
 
@@ -335,7 +327,7 @@ g++ Q1.cpp -o Q1
 ### Example for a C++ assignment
 
 ```bash
-cd "Assignment 10 (03.11.2026)"
+cd "Assignment_10(03.11.26)"
 g++ Q1.cpp -o Q1
 .\Q1.exe
 ```
