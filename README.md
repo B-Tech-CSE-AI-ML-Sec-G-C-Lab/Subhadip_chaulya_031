@@ -348,9 +348,8 @@ g++ Q1.cpp -o Q1
 | Assignment 6 | 3 questions |
 | Assignment 7 | 5 questions |
 | Assignment 8 | 5 questions |
-| Assignment 9 | 2 questions |
-| Assignment 10 | 2 questions |
-| **Total Assignments** | **10** |
+| Assignment 9 | 4 questions |
+| **Total Assignments** | **9** |
 | **Total Source Programs** | **56** |
 
 ---
