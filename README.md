@@ -231,8 +231,9 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 ## 📁 Repository Structure
 
 ```text
-031_Subhadip_Chaulya/
-├── Assignment 1 (04.08.26)/
+Subhadip_chaulya_031/
+│
+├── Assignment_1(04.08.26)/
 │   ├── Q1.c
 │   ├── Q2.c
 │   ├── Q3.c
@@ -240,7 +241,8 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 │   ├── Q5.c
 │   ├── Q6.c
 │   └── Q7.c
-├── Assignment 2 (11.08.26)/
+│
+├── Assignment_2(11.08.26)/
 │   ├── Q1.c
 │   ├── Q2.c
 │   ├── Q3.c
@@ -250,7 +252,8 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 │   ├── Q7.c
 │   ├── Q8.c
 │   └── Q9.c
-├── Assignment 3 (18.08.2026)/
+│
+├── Assignment_3(18.08.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   ├── Q3.cpp
@@ -259,7 +262,8 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 │   ├── Q6.cpp
 │   ├── Q7.cpp
 │   └── Q8.cpp
-├── Assignment 4 (25.08.2026)/
+│
+├── Assignment_4(25.08.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   ├── Q3.cpp
@@ -270,34 +274,37 @@ Topics include procedural programming, functions, arrays, strings, structures, c
 │   ├── Q8.cpp
 │   ├── Q9.cpp
 │   └── Q10.cpp
-├── Assignment 5 (01.09.2026)/
+│
+├── Assignment_5(01.09.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   ├── Q3.cpp
 │   ├── Q4.cpp
 │   └── Q5.cpp
-├── Assignment 6 (08.09.2026)/
+│
+├── Assignment_6(08.09.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   └── Q3.cpp
-├── Assignment 7 (15.09.2026)/
+│
+├── Assignment_7(15.09.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   ├── Q3.cpp
 │   ├── Q4.cpp
 │   └── Q5.cpp
-├── Assignment 8 (13.10.2026)/
+│
+├── Assignment_8(13.10.26)/
 │   ├── Q1.cpp
 │   ├── Q2.cpp
 │   ├── Q3.cpp
 │   ├── Q4.cpp
 │   └── Q5.cpp
-├── Assignment 9 (27.10.2026)/
+│
+├── Assignment_9(27.10.26)/
 │   ├── Q1.cpp
 │   └── Q2.cpp
-├── Assignment 10 (03.11.2026)/
-│   ├── Q1.cpp
-│   └── Q2.cpp
+│
 ├── .gitignore
 └── README.md
 
