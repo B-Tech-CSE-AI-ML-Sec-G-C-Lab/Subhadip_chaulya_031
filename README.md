@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-C%20%7C%20C++-blue)
 ![Course](https://img.shields.io/badge/Course-CSE12106-orange)
 ![University](https://img.shields.io/badge/University-Adamas%20University-red)
-![Semester](https://img.shields.io/badge/Semester-3rd-green)
+![Semester](https://img.shields.io/badge/Semester-3rd-violet)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ---
